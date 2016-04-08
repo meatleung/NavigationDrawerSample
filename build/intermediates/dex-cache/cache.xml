@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="D:\Android\sdk\samples\android-23\ui\NavigationDrawer\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1_6c3cef8cc450e98a60476c799eda2fa43e47cdb0.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\samples\android-23\ui\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="D:\Android\sdk\samples\android-23\ui\NavigationDrawer\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0-alpha1_7b24e1fd65eb2f3ff13de7abb70d0133657be2d7.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\samples\android-23\ui\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="D:\Android\sdk\samples\android-23\ui\NavigationDrawer\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1_1a133c3d39c682c1138248998a35c7315498f38d.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\samples\android-23\ui\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="D:\Android\sdk\samples\android-23\ui\NavigationDrawer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-alpha1_5d09dedee2f49311cebcf7221d905b465694aab6.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\samples\android-23\ui\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="D:\Android\sdk\samples\android-23\ui\NavigationDrawer\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0-alpha1_0f30d6bd2f8794211d799b7f3d3fd7a0f2a9432c.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\samples\android-23\ui\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="D:\Android\sdk\samples\android-23\ui\NavigationDrawer\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0-alpha1_143686c77a4f6e38f2b822d51cd348a3a3aa0bc9.jar" />
+    </item>
+
+</items>
